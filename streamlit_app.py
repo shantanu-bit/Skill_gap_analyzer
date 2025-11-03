@@ -31,7 +31,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ==================== API CONFIG ====================
-API_BASE_URL = "http://localhost:8000"
+API_BASE_URL = "http://192.168.1.25:8000"
 
 # ==================== SESSION STATE INITIALIZATION ====================
 if "user_skills" not in st.session_state:
