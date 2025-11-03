@@ -1,0 +1,127 @@
+{
+  "Senior Data Scientist": {
+    "description": "5+ years data science experience",
+    "skills": {
+      "Python": {
+        "priority": "high",
+        "years_required": 3,
+        "salary_impact": 15000,
+        "learning_hours": 0
+      },
+      "R": {
+        "priority": "high",
+        "years_required": 3,
+        "salary_impact": 12000,
+        "learning_hours": 120
+      },
+      "Machine Learning": {
+        "priority": "high",
+        "years_required": 5,
+        "salary_impact": 25000,
+        "learning_hours": 200
+      },
+      "SQL": {
+        "priority": "medium",
+        "years_required": 2,
+        "salary_impact": 8000,
+        "learning_hours": 40
+      },
+      "Tableau": {
+        "priority": "medium",
+        "years_required": 2,
+        "salary_impact": 5000,
+        "learning_hours": 60
+      },
+      "AWS": {
+        "priority": "medium",
+        "years_required": 2,
+        "salary_impact": 10000,
+        "learning_hours": 80
+      },
+      "Communication": {
+        "priority": "low",
+        "years_required": 0,
+        "salary_impact": 3000,
+        "learning_hours": 0
+      }
+    }
+  },
+
+  "Backend Engineer": {
+    "description": "3+ years backend development",
+    "skills": {
+      "Java": {
+        "priority": "high",
+        "years_required": 3,
+        "salary_impact": 15000,
+        "learning_hours": 150
+      },
+      "Spring Boot": {
+        "priority": "high",
+        "years_required": 2,
+        "salary_impact": 12000,
+        "learning_hours": 100
+      },
+      "REST APIs": {
+        "priority": "high",
+        "years_required": 2,
+        "salary_impact": 10000,
+        "learning_hours": 60
+      },
+      "PostgreSQL": {
+        "priority": "high",
+        "years_required": 2,
+        "salary_impact": 8000,
+        "learning_hours": 80
+      },
+      "Docker": {
+        "priority": "medium",
+        "years_required": 1,
+        "salary_impact": 7000,
+        "learning_hours": 40
+      },
+      "Kubernetes": {
+        "priority": "medium",
+        "years_required": 1,
+        "salary_impact": 8000,
+        "learning_hours": 60
+      }
+    }
+  },
+
+  "Frontend Developer": {
+    "description": "3+ years frontend development",
+    "skills": {
+      "JavaScript": {
+        "priority": "high",
+        "years_required": 3,
+        "salary_impact": 12000,
+        "learning_hours": 0
+      },
+      "React": {
+        "priority": "high",
+        "years_required": 2,
+        "salary_impact": 15000,
+        "learning_hours": 120
+      },
+      "CSS": {
+        "priority": "high",
+        "years_required": 2,
+        "salary_impact": 5000,
+        "learning_hours": 40
+      },
+      "TypeScript": {
+        "priority": "medium",
+        "years_required": 1,
+        "salary_impact": 8000,
+        "learning_hours": 60
+      },
+      "Testing": {
+        "priority": "medium",
+        "years_required": 2,
+        "salary_impact": 6000,
+        "learning_hours": 50
+      }
+    }
+  }
+}

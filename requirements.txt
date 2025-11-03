@@ -1,0 +1,39 @@
+# Web Framework
+fastapi
+uvicorn
+python-multipart
+
+# Data & Models
+pydantic
+pydantic-settings
+
+# PDF & Document Processing
+PyPDF2
+pdf2image
+python-docx
+pillow
+pytesseract
+
+# NLP & ML
+spacy
+transformers
+torch
+sentence-transformers
+huggingface-hub
+nltk
+fuzzywuzzy
+python-Levenshtein
+
+# Data Processing
+pandas
+numpy
+scikit-learn
+
+# Utilities
+python-dotenv
+requests
+loguru
+
+# Testing
+pytest
+pytest-asyncio
